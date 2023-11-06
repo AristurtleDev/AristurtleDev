@@ -32,7 +32,6 @@ Aristurtle<br />
 <!-- YouTube Link -->
 <a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/youtube.png?gh-dark-mode-only" height="20" alt="Aristurtle on YouTube">
-    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Aristurtle on YouTube">
 </a>
 <a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Aristurtle on YouTube">

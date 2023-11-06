@@ -70,17 +70,6 @@ The following are some of the game development tools that I have created.
             <p>Cross-platform C# library for reading Aseprite files.</p>
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/AristurtleDev/SmtpKit">
-                <img src="https://raw.githubusercontent.com/AristurtleDev/SmtpKit/main/.github/images/smtpkit-banner.png" alt="A Small .NET Library For Sending Emails Using SMTP" width=200px>
-            </a>
-        </td>
-        <td>
-            <h3>SmtpKit</h3>
-            <p>Cross-platform C# library for sending email message using SMTP with a fluent syntax.</p>
-        </td>
-    </tr>    
 </table>
 
 ## Recent Tutorials

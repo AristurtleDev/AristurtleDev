@@ -39,9 +39,9 @@ I write tutorials on game development and using the [MonoGame Framework](https:/
 
 I am also a full stack .NET Developer professionally creating web applications for the East Carolina University libraries. So you may see some library technology related things here as well, such as my [Kardashev](https://github.com/AristurtleDev/kardashev) library for reading [MARC-21](https://www.loc.gov/marc/) formatted bibliographic data.
 
-<h1 align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aristurtledev&show_icons=true&theme=cobalt" align="center" height=200>
-</h1>
+</p>
 
 ## Tools
 

@@ -1,9 +1,6 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/branding/aristurtle-full.png" alt="Aristurtle" height="256">
 <br/>
-Christopher Whitley<br/>
-Aristurtle<br />
-
 <!-- Twitter Link -->
 <a href="https://twitter.com/aristurtledev#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/twitter.png?gh-dark-mode-only" height="20" alt="@aristurtle on Twitter">

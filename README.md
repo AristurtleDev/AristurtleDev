@@ -2,23 +2,39 @@
 <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/branding/aristurtle-full.png" alt="Aristurtle" height="256">
 <br/>
 Christopher Whitley<br/>
-Aristurtle
+Aristurtle<br />
 
-<a href="https://twitter.com/aristurtledev">
+<!-- Twitter Link -->
+<a href="https://twitter.com/aristurtledev#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/twitter.png?gh-dark-mode-only" height="20" alt="@aristurtle on Twitter">
+</a>
+<a href="https://twitter.com/aristurtledev#gh-dark-mode-only#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/twitter.png?gh-light-mode-only" height="20" alt="@aristurtle on Twitter">    
 </a>
 
-<a href="https://steamcommunity.com/id/aristrtledev/">
+<!-- Steam Link -->
+<a href="https://steamcommunity.com/id/aristrtledev/#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/steam.png?gh-dark-mode-only" height="20" alt="Aristurtle on Steam">
+</a>
+<a href="https://steamcommunity.com/id/aristrtledev/#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/steam.png?gh-light-mode-only" height="20" alt="Aristurtle on Steam">    
 </a>
-<a href="https://itch.io/profile/aristurtledev">
+
+<!-- itch.io Link -->
+<a href="https://itch.io/profile/aristurtledev#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/itchio.png?gh-dark-mode-only" height="20" alt="Aristurtle on Itch.io">
+    
+</a>
+<a href="https://itch.io/profile/aristurtledev#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/itchio.png?gh-light-mode-only" height="20" alt="Aristurtle on Itch.io">
 </a>
-<a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ">
+
+<!-- YouTube Link -->
+<a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/youtube.png?gh-dark-mode-only" height="20" alt="Aristurtle on YouTube">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Aristurtle on YouTube">
+</a>
+<a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Aristurtle on YouTube">
 </a>
 </h1>
@@ -73,27 +89,23 @@ The following are some of the game development tools that I have created.
     </tr>    
 </table>
 
+## Recent Tutorials
+- [Collision Detection](https://aristurtle.net/tutorials/collision-detection/01_introduction.html) - In this tutorial series, we're going to discuss two different methods of collision detection used in 2D games
+- [MonoGame Content Pipeline Extension](https://aristurtle.net/tutorials/content-pipeline-extension/01_introduction.html) - The purpose of this tutorial is to provide an overview of workflow known as the Content Pipeline and how you can create your own custom extension for the MGCB Editor to process and load custom content types that are not support out-of-the-box by MonoGame
+
+## Recent Videos
+
 <table>
     <tr>
-        <td><h3>Recent Tutorials</h3></td>
-        <td><h3>Recent Videos</h3></td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=fdbGz20q8yk">
+                <img src="https://img.youtube.com/vi/fdbGz20q8yk/0.jpg" alt="MonoGame Content Pipeline Extension Tutorial" width=200px>
+            </a>
+        </td>
+        <td>
+            <b>MonoGame Content Pipeline Extension Tutorial</b>
+            <p>A deep dive tutorial video that discusess the workflow of creating your own extension for the MonoGame Content Pipeline.  This is the companion video to the <a href="https://aristurtle.net/tutorials/content-pipeline-extension/01_introduction.html">MonoGame Content Pipeline Extension</a> written tutorial</p>
+        </td>
     </tr>
-    <tr>
-        <td>
-            <ul>
-                <li><a href="https://aristurtle.net/tutorials/collision-detection/01_introduction.html">Collision Detection</a> - In this tutorial series, we're going to discuss two different methods of collision detection used in 2D games
-                <li><a href="https://aristurtle.net/tutorials/content-pipeline-extension/01_introduction.html">MonoGame Content Pipeline Extension</a> - The purpose of this tutorial is to provide an overview of workflow known as the Content Pipeline and how you can create your own custom extension for the MGCB Editor to process and load custom content types that are not support out-of-the-box by MonoGam
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>
-                    <a href="https://www.youtube.com/watch?v=fdbGz20q8yk">MonoGame Content Pipeline Extension Tutorial | Deep Dive | MonoGame 3.8.1.303</a> 
-                </li>
-            </ul>
-        </td>
-    <tr>
 </table>
-
-
 

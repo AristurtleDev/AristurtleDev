@@ -1,12 +1,99 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/branding/aristurtle-full.png" alt="Aristurtle" width="256">
+<img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/branding/aristurtle-full.png" alt="Aristurtle" height="256">
 <br/>
 Christopher Whitley<br/>
-"Aristurtle"
+Aristurtle
 
+<a href="https://twitter.com/aristurtledev">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/twitter.png?gh-dark-mode-only" height="20" alt="@aristurtle on Twitter">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/twitter.png?gh-light-mode-only" height="20" alt="@aristurtle on Twitter">    
+</a>
 
-
+<a href="https://steamcommunity.com/id/aristrtledev/">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/steam.png?gh-dark-mode-only" height="20" alt="Aristurtle on Steam">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/steam.png?gh-light-mode-only" height="20" alt="Aristurtle on Steam">    
+</a>
+<a href="https://itch.io/profile/aristurtledev">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/itchio.png?gh-dark-mode-only" height="20" alt="Aristurtle on Itch.io">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/itchio.png?gh-light-mode-only" height="20" alt="Aristurtle on Itch.io">
+</a>
+<a href="https://www.youtube.com/channel/UCkCO3DAtrKJgM3ProuSlIpQ">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-dark/youtube.png?gh-dark-mode-only" height="20" alt="Aristurtle on YouTube">
+    <img src="https://raw.githubusercontent.com/AristurtleDev/AristurtleDev/main/.images/on-light/youtube.png?gh-light-mode-only" height="20" alt="Aristurtle on YouTube">
+</a>
 </h1>
+
+Hi, I'm Christopher Whitley, also known as Aristurtle. I am an indie game developer and game tool developer. I primarily create games and tools using the [MonoGame Framework](https://monogame.net). All tools that I develop are released as free and open source here on my GitHub.
+
+I write tutorials on game development and using the [MonoGame Framework](https://monogame.net) which can be found on [my website](https://aristurtle.net)
+
+I am also a full stack .NET Developer professionally creating web applications for the East Carolina University libraries. So you may see some library technology related things here as well, such as my [Kardashev](https://github.com/AristurtleDev/kardashev) library for reading [MARC-21](https://www.loc.gov/marc/) formatted bibliographic data.
+
+<h1 align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aristurtledev&show_icons=true&theme=cobalt" align="center" height=200>
+</h1>
+
+## Tools
+
+The following are some of the game development tools that I have created.
+
+<table>
+    <tr>
+        <td>
+            <a href="https://monogameaseprite.net">
+                <img src="https://raw.githubusercontent.com/AristurtleDev/monogame-aseprite/main/.github/images/banner.png" alt="Import Aseprite files directly into your MonoGame projects" width=200px>
+            </a>
+        </td>
+        <td>
+            <h3>MonoGame.Aseprite</h3>
+            <p>Import aseprite files directly into your MonoGame projects.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/AristurtleDev/AsepriteDotNet">
+                <img src="https://raw.githubusercontent.com/AristurtleDev/AsepriteDotNet/main/.github/images/aseprite-dotnet-banner.png" alt="Cross-platform C# library for reading Aseprite File" width=200px>
+            </a>
+        </td>
+        <td>
+            <h3>AsepriteDotNet</h3>
+            <p>Cross-platform C# library for reading Aseprite files.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/AristurtleDev/SmtpKit">
+                <img src="https://raw.githubusercontent.com/AristurtleDev/SmtpKit/main/.github/images/smtpkit-banner.png" alt="A Small .NET Library For Sending Emails Using SMTP" width=200px>
+            </a>
+        </td>
+        <td>
+            <h3>SmtpKit</h3>
+            <p>Cross-platform C# library for sending email message using SMTP with a fluent syntax.</p>
+        </td>
+    </tr>    
+</table>
+
+<table>
+    <tr>
+        <td><h3>Recent Tutorials</h3></td>
+        <td><h3>Recent Videos</h3></td>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li><a href="https://aristurtle.net/tutorials/collision-detection/01_introduction.html">Collision Detection</a> - In this tutorial series, we're going to discuss two different methods of collision detection used in 2D games
+                <li><a href="https://aristurtle.net/tutorials/content-pipeline-extension/01_introduction.html">MonoGame Content Pipeline Extension</a> - The purpose of this tutorial is to provide an overview of workflow known as the Content Pipeline and how you can create your own custom extension for the MGCB Editor to process and load custom content types that are not support out-of-the-box by MonoGam
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=fdbGz20q8yk">MonoGame Content Pipeline Extension Tutorial | Deep Dive | MonoGame 3.8.1.303</a> 
+                </li>
+            </ul>
+        </td>
+    <tr>
+</table>
 
 
 

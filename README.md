@@ -51,7 +51,7 @@ The following are some of the game development tools that I have created.
     <tr>
         <td>
             <a href="https://monogameaseprite.net">
-                <img src="https://raw.githubusercontent.com/AristurtleDev/monogame-aseprite/main/.github/images/banner.png" alt="Import Aseprite files directly into your MonoGame projects" width=200px>
+                <img src="https://github.com/AristurtleDev/monogame-aseprite/blob/main/.images/banner.png" alt="Import Aseprite files directly into your MonoGame projects" width=200px>
             </a>
         </td>
         <td>
@@ -62,7 +62,7 @@ The following are some of the game development tools that I have created.
     <tr>
         <td>
             <a href="https://github.com/AristurtleDev/AsepriteDotNet">
-                <img src="https://raw.githubusercontent.com/AristurtleDev/AsepriteDotNet/main/.github/images/aseprite-dotnet-banner.png" alt="Cross-platform C# library for reading Aseprite File" width=200px>
+                <img src="https://github.com/AristurtleDev/AsepriteDotNet/blob/main/.images/banner.png" alt="Cross-platform C# library for reading Aseprite File" width=200px>
             </a>
         </td>
         <td>
